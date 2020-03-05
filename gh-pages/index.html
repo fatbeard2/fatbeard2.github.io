@@ -33,11 +33,13 @@
         otherScriptElement.parentNode.insertBefore(scriptElement, otherScriptElement);
     })(window, document, 'script', '//raw.githack.com/fatbeard2/dummy-embed/master/script/dummy-widget.js', 'dummyWidget');
 
+  setTimeout(function(){
     // configurations that performed by site-owner
-  dummyWidget('init', { client_id: 'CLIENT_ID' });
+    dummyWidget('init', { client_id: 'CLIENT_ID' });
+  })
   </script>  
 </head>
 <body>
-  <h1> Hello world </h1>
+  <h1> This is a client website </h1>
 </body>
 </html>
