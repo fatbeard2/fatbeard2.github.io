@@ -1,0 +1,15 @@
+Number,Name,Birthdate,Skipped field
+1,Andrey,2020-01-01,dummy value 1
+2,Billy,2019-01-12,dummy value 2
+3,Bobby,2018-04-03,dummy value 3
+4,Alice,2017-04-12,dummy value 4
+5,Martha,2016-09-19,dummy value 5
+6,Galina,2015-11-28,dummy value 6
+7,Andrey,2020-01-01,dummy value 7
+8,Billy,2019-01-12,dummy value 8
+9,Bobby,2018-04-03,dummy value 9
+10,Alice,2017-04-12,dummy value 10
+11,Martha,2016-09-19,dummy value 11
+12,Galina,2015-11-28,dummy value 12
+13,Andrey,2020-01-01,dummy value 13
+14,Billy,2019-01-12,dummy value 14
